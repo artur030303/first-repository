@@ -1,0 +1,2 @@
+def www():
+    print(www)
